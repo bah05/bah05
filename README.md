@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🤎
 
-<!--
-**bah05/bah05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Barbara Tamara
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001118341697sp@al.educacao.sp.gov.br
+
+@bah__tamara
+
+
+![](https://media.tenor.com/QvZgtEl_y70AAAAM/bruno-mars-versace-on-the-floor.gif)
